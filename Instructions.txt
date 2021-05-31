@@ -1,0 +1,11 @@
+TO PUSH:
+1. git init
+2. git config --global user.name ""
+3. git config --global user.email ""
+4. git add file.txt
+5. git commit -m ""
+6. git remote set-url origin ""
+7. git push -u origin main
+
+TO PULL:
+git pull ""
